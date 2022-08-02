@@ -100,6 +100,3 @@ dice = 0
 game2 = 0
 life = 5
 basic.clearScreen()
-basic.forever(function () {
-	
-})
